@@ -25,5 +25,5 @@ A simple and stylish age calculator built using HTML, CSS, and JavaScript. The u
 
 ## 🚀 Live Demo
 
-🔗 [View Live Demo](https://your-demo-link.com)  
-*(Replace the above link with your actual live deployment URL)*
+🔗 [View Live Demo](https://balaji943.github.io/AgeCalculator/)
+
